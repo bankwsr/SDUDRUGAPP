@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "773687925007",
+    "firebase_url": "https://sdudrugapp-89211.firebaseio.com",
+    "project_id": "sdudrugapp-89211",
+    "storage_bucket": "sdudrugapp-89211.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773687925007:android:872a4c94acb0aa8a",
+        "android_client_info": {
+          "package_name": "com.example.sdudrugapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773687925007-8t7ftuo1n515vdei38rfufhgb337rdue.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sdudrugapp",
+            "certificate_hash": "99428c2998d82de1221db92e3c6eb2f4b4e3aea2"
+          }
+        },
+        {
+          "client_id": "773687925007-33b9tah79odmuhmaguopuumjnlpb320c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxsUNu9dNYyEJu9vq38kXjbx6L6w0MfmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773687925007-33b9tah79odmuhmaguopuumjnlpb320c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
